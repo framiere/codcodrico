@@ -4,6 +4,8 @@
 
 # Todo
 
+first checkup w/ Framiere
+
 ## Github
 
 * What is github
